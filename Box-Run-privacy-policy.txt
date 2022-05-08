@@ -1,0 +1,14 @@
+Box Run: Privacy policy
+Welcome to Box Run app for Android!
+
+This application is not programmed to collect any personally identifiable information. 
+All data created by the user is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+
+The application is using advertisement from Unity Ads to help support the developer.
+
+If you find any security vulnerability or have any question regarding how the app protects your privacy, please send an email.
+
+Kind Regards,
+Felix Arnestrand.
+
+felix.arnestrand.gdev@gmail.com
